@@ -2,7 +2,6 @@ package p12.exercise;
 
 import java.util.*;
 
-
 /**
  * A multiple (FIFO) queue, e.g., to manage people paying at the supermarket
  *
